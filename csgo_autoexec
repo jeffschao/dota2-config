@@ -1,3 +1,5 @@
+//D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+
 alias +switch "slot3"
 alias -switch "lastinv"
 bind q "+switch"
