@@ -2,7 +2,7 @@
 // Simple radar: http://simpleradar.com/
 
 con_enable "1"
-// The threading mode the material system uses
+// The threading mode the material system uses (fixes mini freeze on laptop)
 mat_queue_mode 1
 
 // network
