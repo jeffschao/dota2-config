@@ -28,6 +28,7 @@ cl_use_opens_buy_menu "0"
 // Disables advertisements/videos/stuff on community servers
 cl_disablehtmlmotd "1"
 cl_color 0 //prefer yellow in game
+cl_teamid_overhead_mode 1 // see teammates
 
 alias +switch "slot3"
 alias -switch "lastinv"
